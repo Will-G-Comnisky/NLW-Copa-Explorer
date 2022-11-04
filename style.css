@@ -5,24 +5,9 @@
 }
 
 :root {
-  --card-primary-color: #f7dd43;
-  --card-title-border-color: #746615;
-  --card-bg-color: #1d1c19;
-  --bg-main: url(./assets/bg-yellow.svg);
-}
-
-body.blue {
   --card-primary-color: #338AF3;
   --card-title-border-color: #338AF3;
   --card-bg-color: #202024;
-  --bg-main: url(./assets/bg-blue.svg);
-}
-
-body.green {
-  --card-primary-color: #047C3F;
-  --card-title-border-color: #047C3F;
-  --card-bg-color: #1a1f1b;
-  --bg-main: url(./assets/bg-green.svg);
 }
 
 body * {
@@ -31,7 +16,7 @@ body * {
 
 body {
   background-color: #121214;
-  background-image: var(--bg-main);
+  background-image: url(./Assets/bg-blue.svg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
