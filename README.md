@@ -16,10 +16,6 @@
   <img alt="Calendário e horário da copa" src=".github/preview.jpg" width="100%">
 </p>
 
-## ⚠️ Aviso
-
-- O input de texto não funciona
-
 ## 🚀 Tecnologias
 
 - HTML e CSS
@@ -31,7 +27,7 @@
 
 Calendário da copa do mundo de 2022 que mostra datas e horários dos jogos.
 
-O projeto pode ser visualizado através [desse link](https://miask3011.github.io/nlw-10-copa/)
+O projeto pode ser visualizado através [desse link](https://will-g-comnisky.github.io/NLW-Copa-Explorer/)
 
 ## 🔖 Layout
 
