@@ -27,11 +27,11 @@
 
 Calendário da copa do mundo de 2022 que mostra datas e horários dos jogos.
 
-O projeto pode ser visualizado através [desse link](https://will-g-comnisky.github.io/NLW-Copa-Explorer/){:target="\_blank" rel="noopener"}
+O projeto pode ser visualizado através [desse link](https://will-g-comnisky.github.io/NLW-Copa-Explorer/)
 
 ## 🔖 Layout
 
-É possível acessar o layout através [desse link](<https://www.figma.com/file/3vJag61Mwp00SpzFtf8pgc/Calend%C3%A1rio-de-Jogos-(Community)>){:target="\_blank" rel="noopener"}
+É possível acessar o layout através [desse link](<https://www.figma.com/file/3vJag61Mwp00SpzFtf8pgc/Calend%C3%A1rio-de-Jogos-(Community)>)
 
 ## :memo: Licença
 
